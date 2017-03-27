@@ -102,7 +102,7 @@
 * 유니콘 (16.09 ~ )
 	- 내용 :
 		- 광고 차단 어플인 유니콘에서 WEB API 구현 및 관리 시스템 구축
-	- 기술스텍 : `javascript`, `node.js`, `mysql`, `vue.js`, `html`, `css`, `aws`
+	- 기술스 : `javascript`, `node.js`, `mysql`, `vue.js`, `html`, `css`, `aws`
 	- 담당업무
 		- Rest WEB API 구현
 		- 관리 페이지 구현
