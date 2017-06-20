@@ -94,5 +94,5 @@
 		> - 광고 파일 검증 프로그램 개발
 
 ### 기타
-* [github 경로](https://github.com/rosd89)
+* [github : rosd89](https://github.com/rosd89)
 * [Vuetiful Korea 1회 모임 : 우당탕탕 회사에서 Vue.js를 도입한 삽질기 D.CAMP (17.04.22)](https://www.slideshare.net/attdro/vuejs-75250521)
