@@ -25,9 +25,9 @@
 * 08.07 ~ 10.07 : 대한민국 해군 병장 전역
 
 ### 기술
-* BE : `java`, `node`
-* DB : `mysql`
-* FE : `javascript`, `html`, `css`, `vue.js`
+* BE : `Java`, `Spring`, `Node.js`, `ECMAScript2015`, `AWS`
+* DB : `Mysql`
+* FE : `JavaScript`, `HTML/CSS`, `vue.js`
 
 ### 프로젝트 수행이력
 * 유니콘 (16.09 ~ )
@@ -35,7 +35,7 @@
 		> 핸드폰 브라우저에서 팝업 광고, 동영상 광고 등을 제거하는 앱
 	
 	- 기술스택 : 
-		> `es6`, `node.js`, `express`, `mysql`, `sequelize.js`, `vue.js`, `html`, `css`, `aws`
+		> `ECMAScript2015`, `Node.js `, `express.js`, `Mysql`, `sequelize.js`, `vue.js`, `HTML/CSS`, `AWS`
 	
 	- 담당업무
 		> - AWS EC2 서버 관리
@@ -48,7 +48,7 @@
 		> 각 제품별 최저가를 크롤링해서 수집된 데이터를 바탕으로 제품의 최저가를 조절하는 프로그램
 	
 	- 기술스택 : 
-		> `php`, `laravel`, `mysql`, `json`
+		> `PHP`, `laravel`, `Mysql`
 	
 	- 담당업무 : 
 		> - REST API 설계 및 개발
@@ -58,7 +58,7 @@
 		> 내가 살고 있는 동내에서 과외 선생님을 구하는 앱으로 선생님 계정과 학생 계정으로 나뉘어 있어 과외 선생님에게는 과외를 모집할 수 있는 서비스를 학생에게는 살고 있는 동네에서 과외를 쉽게 구할 수 있게 도와주는 서비스
 	
 	- 기술스택 : 
-		> `java`, `spring`, `mysql`, `mybatis`
+		> `Java`, `Spring`, `Mysql`, `Mybatis`
 	
 	- 담당업무 : 
 		> - API 설계 및 개발
@@ -71,7 +71,7 @@
 		> 상영관을 만들어 티켓을 구매 혹은 선물을 통해서 상영관에 입장 할 수있고, 상영이 종료된 영화는 일정기간 다시보기를 통해서 다시볼 수 있는 앱
 	
 	- 기술스택 : 
-		> `java`, `servlet`, `html`, `css`, `javascript`
+		> `Java`, `Servlet`, `HTML/CSS`, `JavaScript `
 	
 	- 담당업무 : 
 		> - API 설계 및 문서 관리
@@ -83,7 +83,7 @@
 	 > 미국, 캐나다에서 VOD 서비스를하는 업체인 Ntv
 	 
 	- 기술스택 : 
-		> `java`, `servlet`, `mysql`, `html`, `css`, `javascript`
+		> `Java`, `Servlet`, `Mysql`, `HTML/CSS`, `JavaScript `
 	
 	- 담당업무 :
 		> - API 설계 및 문서 관리
