@@ -89,7 +89,7 @@
 
 * Ntv 관리 시스템 (14.04 ~ 15.11 [20개월])
 	- 내용 : 
-	 > 미국, 캐나다에서 VOD 서비스를하는 업체인 Ntv
+	 	> 미국, 캐나다에서 VOD 서비스를하는 업체인 Ntv
 	 
 	- 기술스택 : 
 		> `Java`, `Servlet`, `Mysql`, `HTML/CSS`, `JavaScript `
