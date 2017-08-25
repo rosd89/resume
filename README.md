@@ -106,4 +106,5 @@
 ### 기타
 * [github : rosd89](https://github.com/rosd89)
 * [Presentation :  박새미](https://github.com/rosd89/resume/blob/master/sam_pt_170622.pdf)
-* [Vuetiful Korea 1회 모임 : 우당탕탕 회사에서 Vue.js를 도입한 삽질기 D.CAMP (17.04.22)](https://www.slideshare.net/attdro/vuejs-75250521)
+* [Vuetiful Korea 1회 모임 : 우당탕탕 회사에서 Vue.js를 도입한 삽질기(17.04.22)](https://www.slideshare.net/attdro/vuejs-75250521)
+* [Vuetiful Korea 2회 모임 : 컴포넌트야 놀자 (17.08.23)](http://slides.com/attdro/deck-3#/)
