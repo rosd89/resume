@@ -130,6 +130,10 @@
       >   - 셋탐 개통, 설정, 광고 편성, 공지 편성, 통계 등 Ntv 관리페이지 개발
       >   - API 문서, 개발 문서, 관리페이지 가이드 문서 관리 
       
+## 커뮤니티 활동
+* [Vuetiful Korea 1회 모임 : 우당탕탕 회사에서 Vue.js를 도입한 삽질기(17.04.22)](https://www.slideshare.net/attdro/vuejs-75250521)
+* [Vuetiful Korea 2회 모임 : 컴포넌트야 놀자 (17.08.23)](http://slides.com/attdro/deck-3#/)
+
 ## 기 타 사 항
 
 * 병역: 대한민국 해군 병장 전역 (08.07 ~ 10.07)
@@ -137,8 +141,6 @@
   - [유니티 러닝센터] 유니티 전문가 과정 수강 (16.03 ~ 16.06)
   - [kosta] java web framework & 안드로이드 개발자 양성 과정 수료 (13.07 ~ 14.02)
 * [Presentation :  박새미](https://github.com/rosd89/resume/blob/master/sam_pt_170622.pdf)
-* [Vuetiful Korea 1회 모임 : 우당탕탕 회사에서 Vue.js를 도입한 삽질기(17.04.22)](https://www.slideshare.net/attdro/vuejs-75250521)
-* [Vuetiful Korea 2회 모임 : 컴포넌트야 놀자 (17.08.23)](http://slides.com/attdro/deck-3#/)
   
 ## 지원 사유
 
