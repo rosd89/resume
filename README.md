@@ -45,11 +45,12 @@
         > - 기술스택: `JAVA8`, `SpringBoot`, `Elastic Search`
      
     * 프로젝트 명: What Now Second View 관리 페이지 개발
-            > - 수행기간: 18.03 ~ 18.03 (1개월)
-            > - 본인 참여율: 90%
-            > - 참여인원: 2명
-            > - 프로젝트 개요: 국내 컨텐츠 업체의 백버튼 이벤트로 노출되는 세컨뷰 서비스 관리페이지 개발
-            > - 기술스택: `JAVA8`, `SpringBoot`, `Thymeleaf`, `BootStrap Admin LTE`, `vue.js`
+            
+        > - 수행기간: 18.03 ~ 18.03 (1개월)
+        > - 본인 참여율: 90%
+        > - 참여인원: 2명
+        > - 프로젝트 개요: 국내 컨텐츠 업체의 백버튼 이벤트로 노출되는 세컨뷰 서비스 관리페이지 개발
+        > - 기술스택: `JAVA8`, `SpringBoot`, `Thymeleaf`, `BootStrap Admin LTE`, `vue.js`
     
     * 프로젝트 명: Newspic 운영 및 관리
     
